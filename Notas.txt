@@ -2,14 +2,4 @@ Link de Roadmap RPA :
 https://w3-connections.ibm.com/wikis/home?lang=en-us#!/wiki/W4efe11497a62_453e_a5f8_ffb3889ae6ed/page/RPA%20Training%20Roadmap
 
 
-Bchain :
 
-asset Vehicle identified by vin {
-  o String vin
-  o String manufacter optional
-  o String model optional
-  o String year optional
-  o String radio optional
-  
-  --> Member owner
-}
